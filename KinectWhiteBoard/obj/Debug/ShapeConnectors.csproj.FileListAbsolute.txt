@@ -1,0 +1,374 @@
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\AnyCPU\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Common\StandardStyles.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ButtonSample.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\CheckBoxRadioButtonSample.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\EngagementSettings.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ItemsControlsSample.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\KinectPointerPointSample.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ScrollViewerSample.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\SliderSample.baml
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ButtonSample.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\CheckBoxRadioButtonSample.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\EngagementSettings.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ItemsControlsSample.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\KinectPointerPointSample.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ScrollViewerSample.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\SliderSample.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Documents\KinectStuff\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Common\StandardStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ButtonSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\CheckBoxRadioButtonSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\EngagementSettings.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ItemsControlsSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\KinectPointerPointSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ScrollViewerSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\SliderSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ButtonSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\CheckBoxRadioButtonSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\EngagementSettings.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ItemsControlsSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\KinectPointerPointSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\ScrollViewerSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Pages\SliderSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0WorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 1 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SwipeMenu2.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuDown.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuUp.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 2\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuDown.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuUp.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\KinectStuff\_0NotWorkingCopies\ShapeConnectors - Latest - 3\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuDown.gbd
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuUp.gbd
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Sonify\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe.config
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuDown.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuUp.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.exe
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\ShapeConnectors.pdb
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_Content.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.cache
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors_MarkupCompile.lref
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.g.resources
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.Properties.Resources.resources
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\ShapeConnectors.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.exe.config

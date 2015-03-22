@@ -1,0 +1,265 @@
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuDown.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuUp.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.exe.config
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard_Content.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard_MarkupCompile.cache
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard_MarkupCompile.lref
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.g.resources
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.Properties.Resources.resources
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\ShapeConnectors - Latest - 3 - Copy\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.exe.config
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuDown.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Database\MenuUp.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.application
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard_Content.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard_MarkupCompile.cache
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard_MarkupCompile.lref
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.g.resources
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.Properties.Resources.resources
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Brosco\Desktop\LatestLatestBackUp\ShapeConnectors\ShapeConnectors\obj\Debug\KinectWhiteBoard.application
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.config
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuDown.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuUp.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.application
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_Content.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.cache
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.lref
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.g.resources
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.Properties.Resources.resources
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Brosco\Desktop\LatestLatestBackUp\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.application
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.config
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuDown.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuUp.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.application
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_Content.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.cache
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.lref
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.g.resources
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.Properties.Resources.resources
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Brosco\Desktop\WiseRajaFinal\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.application
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.config
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Clapping.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuDown.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuUp.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.application
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.pdb
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csprojResolveAssemblyReference.cache
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\App.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_Content.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.cache
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.lref
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.baml
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.g.resources
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.Properties.Resources.resources
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csproj.GenerateResource.Cache
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.application
+C:\Users\Brosco\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\UpsideDown.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.config
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.pdb
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Clapping.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuDown.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuUp.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\UpsideDown.gbd
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.application
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.pdb
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csprojResolveAssemblyReference.cache
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.g.cs
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\App.g.cs
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_Content.g.cs
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.cache
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.lref
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.baml
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.g.resources
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.Properties.Resources.resources
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csproj.GenerateResource.Cache
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Sonify\Desktop\WiseRajaFinal - Copy\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.application
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.config
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.pdb
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Clapping.gbd
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\SliceGesture.gbd
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuDown.gbd
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\MenuUp.gbd
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\Take_Snap.gbd
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\CloseRightMenu.gbd
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\OpenRightMenu.gbd
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Database\UpsideDown.gbd
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.application
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.exe
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\KinectWhiteBoard.pdb
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\HandPointers\HandPointerStyles.baml
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.g.cs
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.g.cs
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\App.g.cs
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_Content.g.cs
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.cache
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard_MarkupCompile.lref
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\DragDropElement\DragDropSample.baml
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\Window1.baml
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.g.resources
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.Properties.Resources.resources
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.csproj.GenerateResource.Cache
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.exe.manifest
+C:\Users\Sid\Downloads\KinectWhiteBoard\KinectWhiteBoard\obj\Debug\KinectWhiteBoard.application
